@@ -5,26 +5,16 @@
       <div class="carousel-inner">
       
         <div class="item active">
-          <img src=<?php echo base_url("Content/img/welcome/index/slider/1.png") ?> >
+          <img src=<?php echo base_url("Content/img/welcome/index/slider/0.png") ?> >
            <div class="carousel-caption">
-            <h3 class="tituloSlider">Peones protagonistas</h3>
-            <p> 
-              El rey es indefenso, su poder radica en su linea de defensa trabajar estrategicamente 
-              y en conjunto es la clave para superar al enemigo 
-              <br>
-              <a href="#" target="_blank" class="label label-danger">Mario Peña</a>
-            </p>
+            
           </div>
         </div><!-- End Item -->
  
-         <div class="item">
-          <img src=<?php echo base_url("Content/img/welcome/index/slider/2.png") ?> >
-           <div class="carousel-caption">
-            <h3 class="tituloSlider">¿Una apuesta acertada?</h3>
-            <p >
-              Mucho se habla del centro historico y lo bien que se ve pero hay mucho más detras de el
-              cosas buenas y malas que casi nadie ve pero debes saber<br>
-              <a href="#" target="_blank" class="label label-danger">byronpenna</a></p>
+        <div class="item">
+          <img src=<?php echo base_url("Content/img/welcome/index/slider/1.png") ?> >
+          <div class="carousel-caption">
+            
           </div>
         </div><!-- End Item -->
         
@@ -49,15 +39,23 @@
 
     	<ul class="nav nav-pills nav-justified">
           <li data-target="#myCarousel" data-slide-to="0" class="active">
-            <a href="#">Bienvenido</a>
+            <a href="#">Bienvenidos</a>
           </li>
           <li data-target="#myCarousel" data-slide-to="1">
             <a href="#">
-              La gran apuesta 
+              Ritsa Educación
             </a>
           </li>
-          <li data-target="#myCarousel" data-slide-to="2"><a href="#">Portfolio<small>Lorem ipsum dolor sit</small></a></li>
-          <li data-target="#myCarousel" data-slide-to="3"><a href="#">Services<small>Lorem ipsum dolor sit</small></a></li>
+          <li data-target="#myCarousel" data-slide-to="2">
+            <a href="#">
+              Fapesa
+            </a>
+          </li>
+          <li data-target="#myCarousel" data-slide-to="3">
+            <a href="#">
+              Ajedrez Político
+            </a>
+          </li>
         </ul>
 
 

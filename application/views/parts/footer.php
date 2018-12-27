@@ -9,7 +9,7 @@
 					</div>
 					<div class="col-lg-10">
 						<a href="#" class="linkRedSocialFooter">
-							/ajedrezAP
+							/
 						</a>
 					</div>
 				</div>
@@ -19,7 +19,7 @@
 					</div>
 					<div class="col-lg-10">
 						<a href="#" class="linkRedSocialFooter">
-							/ajedrezAP
+							/
 						</a>
 					</div>
 				</div>	
@@ -27,7 +27,7 @@
 		</div><!-- 
 		--><div class="col-lg-7 vcenter" >
 			<div class="row" style="text-align: center">
-				Ajedrez politico todos los derechos reservados 2018
+				byronpenna todos los derechos reservados 2018
 				<br>
 				Powered by <a href="http://www.ritsasv.com/" style="color: white; font-weight: bold;" target="_blank">Ritsa</a>
 				<br>

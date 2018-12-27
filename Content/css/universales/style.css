@@ -47,18 +47,14 @@
   font-size: 18px;
 }
 .barraMenu{
-  background: #736E69;
+  background: #34495e;
 }
 
 .textoLogoMenu{
-  color: #520201 !important;
+  color: white !important;
   font-weight: bold;
-  padding-top: 5%;
+}
 
-}
-.textoLogoMenu img{
-	width: 50px;
-}
 .textoBarraMenu{
   color: white !important;
 }

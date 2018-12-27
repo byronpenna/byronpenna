@@ -17,21 +17,7 @@
 		$this->load->view("parts/componentes/slider.php");
 	?>
 	<div class="row container divContenidoIndex">
-		<div class="col-lg-4" style="background: red">
-			<div class="divLaReina" >
-				<div  class="col-lg-3">
-					<img src="">
-				</div>
-				<div class="col-lg-9">
-					<div class="row container">
-						<h3> Will salgado </h3>
-					</div>	
-				</div>	
-			</div>
-		</div>
-		<div class="col-lg-4" style="background: red">
-			
-		</div>
+		
 	</div>
 	<?php 
 		$this->load->view("parts/footer.php");
