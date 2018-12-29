@@ -1,3 +1,8 @@
+.tituloPrincipal{
+  background: #34495e; 
+  color: white;
+  text-align: center;
+}
 /*Barra menu*/
 .dropdown-large {
   position: static !important;
@@ -133,7 +138,7 @@
 }
 /**/
 .footer{
-  background: #736E69;
+  background: #34495ewr;
   padding-top: 1%;
   padding-bottom: 1%;
   /*position: fixed;*/

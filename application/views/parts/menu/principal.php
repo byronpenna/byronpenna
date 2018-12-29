@@ -10,17 +10,13 @@
 			byronpenna
 		</a>
 	</div>
-	
-	
 	<div class="collapse navbar-collapse js-navbar-collapse barraMenu">
 		<ul class="nav navbar-nav">
 			<li>
 				<a class="dropdown-toggle textoBarraMenu" href=<?php echo site_url("welcome/test") ?> >
 					Inicio
 				</a>
-
 			</li>
 		</ul>
-		
 	</div><!-- /.nav-collapse -->
 </nav>

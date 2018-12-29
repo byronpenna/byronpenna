@@ -12,11 +12,11 @@
 		<link rel="stylesheet" type="text/css" href=<?php echo base_url("Content/css/universales/style.css") ?> >
 		<link rel="stylesheet" type="text/css" href=<?php echo base_url("Content/css/universales/media.css") ?> >
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126699957-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-73223750-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-126699957-1');
+  gtag('config', 'UA-73223750-2');
 </script>
