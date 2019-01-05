@@ -12,22 +12,29 @@
         </div><!-- End Item -->
  
         <div class="item">
-          <img src=<?php echo base_url("Content/img/welcome/index/slider/1.png") ?> >
+          <a href="http://bit.ly/ritsasv" target="_blank">
+            <img src=<?php echo base_url("Content/img/welcome/index/slider/1.png") ?> >
+          </a>  
           <div class="carousel-caption">
             
           </div>
         </div><!-- End Item -->
         
         <div class="item">
-          <img src=<?php echo base_url("Content/img/welcome/index/slider/2.png") ?> >
-           <div class="carousel-caption">
+          <a href="http://bit.ly/fapesasv">
+            <img src=<?php echo base_url("Content/img/welcome/index/slider/2.png") ?> >
+          </a>
+          <div class="carousel-caption">
             
           </div>
         </div><!-- End Item -->
         
         <div class="item">
-          <img src=<?php echo base_url("Content/img/welcome/index/slider/3.png") ?> >
-           <div class="carousel-caption">
+          <a href="http://bit.ly/ajedrezpolitico">
+            <img src=<?php echo base_url("Content/img/welcome/index/slider/3.png") ?> >  
+          </a>
+          
+          <div class="carousel-caption">
             
           </div>
         </div><!-- End Item -->

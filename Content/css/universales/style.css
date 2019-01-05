@@ -2,6 +2,14 @@
   background: #34495e; 
   color: white;
   text-align: center;
+  margin-bottom: 2%;
+}
+.texto{
+  text-align: justify;
+}
+.divTextoDestacado
+{
+  padding-right: 3%;
 }
 /*Barra menu*/
 .dropdown-large {
@@ -138,7 +146,7 @@
 }
 /**/
 .footer{
-  background: #34495ewr;
+  background: #34495e;
   padding-top: 1%;
   padding-bottom: 1%;
   /*position: fixed;*/
